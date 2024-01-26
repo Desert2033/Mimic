@@ -1,0 +1,41 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 05.06.2016 16:44:00
+
+mtllib RoadStraightMarkings.mtl
+
+#
+# object RoadStraightMarkings
+#
+
+v  0.0000 0.1500 -4.1000
+v  15.0000 0.1500 -4.1000
+v  15.0000 0.1500 -4.4000
+v  0.0000 0.1500 -4.4000
+v  15.0000 0.1499 4.4000
+v  15.0000 0.1499 4.1000
+v  0.0000 0.1499 4.1000
+v  0.0000 0.1499 4.4000
+# 8 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 0.4069 0.4662 0.0000
+vt 0.4069 0.1785 0.0000
+vt 0.4126 0.1785 0.0000
+vt 0.4126 0.4662 0.0000
+vt 0.4101 0.1762 0.0000
+vt 0.4159 0.1762 0.0000
+vt 0.4159 0.4638 0.0000
+vt 0.4101 0.4638 0.0000
+# 8 texture coords
+
+g RoadStraightMarkings
+usemtl Material__3080
+s 1
+f 1/1/1 2/2/1 3/3/1 
+f 3/3/1 4/4/1 1/1/1 
+f 5/5/1 6/6/1 7/7/1 
+f 7/7/1 8/8/1 5/5/1 
+# 4 faces
+
